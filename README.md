@@ -5,9 +5,6 @@ Bu proje, **Türkiye İklim Kanunu (Kanun No: 7552)**'nı modern ve görsel aç�
 ## 🌍 **Canlı Demo**
 
 - [Ana Sayfa (index.html)](https://kingerders.github.io/turkiye-iklim-kanunu)
-- [İklim Kanunu Sayfası (iklimkanunu.html)](https://kingerders.github.io/turkiye-iklim-kanunu/iklimkanunu.html)
-
-> **Not:** Her iki dosya da aynı içeriğe sahiptir. GitHub Pages otomatik olarak `index.html` dosyasını ana sayfa olarak gösterir.
 
 ## 📋 **Özellikler**
 
