@@ -3,7 +3,7 @@
 Bu proje, **Türkiye İklim Kanunu (Kanun No: 7552)**'nı modern ve görsel açıdan zengin bir web sayfası olarak sunar.
 
 ## 🌍 **Canlı Demo**
-[Sayfayı görüntülemek için tıklayın](https://kingerders.github.io/turkiye-iklim-kanunu)
+[Sayfayı görüntülemek için tıklayın](https://kingerders.github.io/turkiye-iklim-kanunu/iklimkanunu.html)
 
 ## 📋 **Özellikler**
 
