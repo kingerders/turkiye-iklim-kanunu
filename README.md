@@ -6,14 +6,6 @@ Bu proje, **Türkiye İklim Kanunu (Kanun No: 7552)**'nı modern ve görsel aç�
 
 - [Ana Sayfa (index.html)](https://kingerders.github.io/turkiye-iklim-kanunu)
 
-## 📋 **Özellikler**
-
-- ✅ **Modern ve responsive tasarım**
-- ✅ **İnteraktif navigasyon menüsü**
-- ✅ **Görsel ikonlar ve animasyonlar**
-- ✅ **Mobil uyumlu**
-- ✅ **Kolay paylaşım için optimize edilmiş**
-
 ## 🎯 **Kanunun Ana Başlıkları**
 
 - **Genel Hükümler** - Amaç, kapsam ve temel tanımlar
