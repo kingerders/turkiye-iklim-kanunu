@@ -32,6 +32,9 @@
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
+    <!-- Google AdSense Verification Code -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8723630978676321" crossorigin="anonymous"></script>
     <style>
         * {
             margin: 0;
@@ -398,6 +401,44 @@
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
         }
+
+        /* AdSense Zones */
+        .adsense-zone {
+            margin: 30px 0;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 10px;
+            padding: 20px;
+            border: 1px solid #e2e8f0;
+            min-height: 280px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #6b7280;
+            font-style: italic;
+        }
+
+        .adsense-banner {
+            min-height: 90px;
+            margin: 20px 0;
+        }
+
+        .adsense-sidebar {
+            min-height: 600px;
+            margin: 20px 0;
+        }
+
+        .adsense-mobile {
+            min-height: 250px;
+            margin: 15px 0;
+        }
+
+        @media (max-width: 768px) {
+            .adsense-zone {
+                padding: 15px;
+                min-height: 250px;
+            }
+        }
     </style>
 </head>
 <!-- Google tag (gtag.js) -->
@@ -409,6 +450,24 @@
 
   gtag('config', 'G-6SMJGX0WS2');
 </script>
+
+<!-- 
+Google AdSense Setup Instructions:
+1. Apply for Google AdSense at: https://www.google.com/adsense/
+2. Once approved, replace the placeholder divs below with your actual AdSense code
+3. Recommended ad units for this site:
+   - Banner (728x90) - Top of content
+   - Medium Rectangle (300x250) - Between sections
+   - Large Rectangle (336x280) - High-value content areas
+   - Responsive units - Mobile optimization
+
+AdSense Tips for Climate Law Content:
+- Your educational, government-related content is AdSense-friendly
+- Turkish climate law is a specialized niche = higher CPM
+- Professional audience = better click-through rates
+- Consider enabling "Auto ads" for automatic optimization
+-->
+
 <body>
     <div class="container">
         <!-- Header -->
@@ -449,6 +508,12 @@
                 <li><a href="#resmi-kaynak"><i class="fas fa-bookmark"></i> Resmi Kaynak</a></li>
             </ul>
         </nav>
+
+        <!-- AdSense Banner - Top of content -->
+        <div class="adsense-zone adsense-banner">
+            <!-- Google AdSense Banner 728x90 or 320x50 (mobile) -->
+            <div>📢 Reklam Alanı - Google AdSense Banner</div>
+        </div>
 
         <!-- Main Content -->
         <main class="main-content fade-in">
@@ -566,6 +631,12 @@
                 </div>
             </section>
 
+            <!-- AdSense Rectangle - Mid content -->
+            <div class="adsense-zone">
+                <!-- Google AdSense Medium Rectangle 300x250 -->
+                <div>📢 Reklam Alanı - Google AdSense Medium Rectangle</div>
+            </div>
+
             <!-- Section 2: Mücadele Faaliyetleri -->
             <section id="mucadele-faaliyetleri" class="section">
                 <h2><i class="fas fa-shield-alt"></i> İKİNCİ KISIM - İklim Değişikliği ile Mücadele</h2>
@@ -641,6 +712,12 @@
                     </div>
                 </div>
             </section>
+
+            <!-- AdSense Large Rectangle - Before important sections -->
+            <div class="adsense-zone">
+                <!-- Google AdSense Large Rectangle 336x280 -->
+                <div>📢 Reklam Alanı - Google AdSense Large Rectangle</div>
+            </div>
 
             <!-- Section 4: Karbon Fiyatlandırma -->
             <section id="karbon-fiyatlandirma" class="section">
@@ -794,6 +871,12 @@
                         <div class="stat-label">TL - Döner Sermaye Başlangıç</div>
                     </div>
                 </div>
+            </div>
+
+            <!-- AdSense Responsive - Before law structure -->
+            <div class="adsense-zone">
+                <!-- Google AdSense Responsive Unit -->
+                <div>📢 Reklam Alanı - Google AdSense Responsive</div>
             </div>
 
             <!-- Kanun Yapısı -->
