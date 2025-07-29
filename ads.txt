@@ -1,5 +1,0 @@
-# ads.txt file for kingerders.github.io
-# Publisher verification for Google AdSense
-google.com, pub-8723630978676321, DIRECT, f08c47fec0942fa0
-# Reseller records
-google.com, pub-8723630978676321, RESELLER, f08c47fec0942fa0
